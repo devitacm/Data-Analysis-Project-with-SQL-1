@@ -16,3 +16,14 @@ The dataset contains the following data:
   10. Product Sub-Category
  
 This project used a table called dqlab_sales_store.
+
+From the data that has been provided, the management of the DQLab store wants to know:
+  1A. Overall perofrmance of DQLab Store from 2009 - 2012 for number of total orders and total sales of finished orders
+  1B. Overall performance of DQLab by subcategory product to be compared between 2011 and 2012
+  2A. The effectiveness and efficiency of the promotion carried out so far, by calculating the burn rate of the promotion carried out overall based on the year
+  2B. The effectiveness and efficiency of the promotion carried out so far, by calculating the burn rate of the promotion carried out overall based on sub-categories
+  3A. Analysis of customers every year
+  3B. Analysis of the number of new customers every year
+  3C. Cohort to find out the number of customer retention in 2009
+  
+ This project is done using SQL.
